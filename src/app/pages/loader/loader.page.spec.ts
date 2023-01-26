@@ -18,7 +18,7 @@ describe('LoaderPage', () => {
     fixture.detectChanges();
   }));
 
-  it('should create', () => {
-    expect(component).toBeTruthy();
+  it('should go to login page after load', () => {
+    expect(false).toBeTruthy();
   });
 });
